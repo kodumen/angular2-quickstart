@@ -1,6 +1,6 @@
 # Angular 2 Quickstart
 
-Quickly start a new Angular 2 application!
+Quickly start a new Angular 2 (Beta) application!
 
 Based on the Angular 2 Quickstart guide from [angular.io](https://angular.io/docs/ts/latest/quickstart.html).
 Use this to immediately start making your project! The language used for this 
